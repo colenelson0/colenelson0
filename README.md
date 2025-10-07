@@ -1,16 +1,16 @@
-## Hi there 👋
+# Cole Nelson
 
-<!--
-**colenelson0/colenelson0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Cole. I'm a student at BYU-I currently studying computer science, learning skills such as web development, programming, and game development. Welcome to my GitGub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My current interests are in video game development, software engineering, and the web.
+- I also spend my free time designing characters and producing music.
+
+## Technologies and Skills
+
+## Let's Connect!
+
+- Here is the link to my [LinkedIn](https://www.linkedin.com/in/cole-nelson-120109363/) profile.
+
+Feel free to check out some of the repositories I've created and be sure to reach out if you want to connect. Thanks for your attention!
