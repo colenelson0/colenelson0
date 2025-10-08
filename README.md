@@ -9,6 +9,9 @@ Hello, I'm Cole. I'm a student at BYU-I currently studying computer science, lea
 
 ## Technologies and Skills
 
+- Proficient in: C#, Python, HTML, CSS, Java, C++, Swift, Game Maker Studio 2
+- Skills: Communication, Problem solving, Creativity
+
 ## Let's Connect!
 
 - Here is the link to my [LinkedIn](https://www.linkedin.com/in/cole-nelson-120109363/) profile.
