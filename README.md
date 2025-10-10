@@ -22,4 +22,4 @@ Hello, I'm Cole. I'm a student at BYU-I currently studying computer science, lea
 
 - Here is the link to my [LinkedIn](https://www.linkedin.com/in/cole-nelson-120109363/) profile.
 
-Feel free to check out some of the repositories I've created and be sure to reach out if you want to connect. Thanks for your attention!
+Feel free to check out the other repositories I've created and be sure to reach out if you want to connect. Thanks for your attention!
