@@ -14,9 +14,17 @@ Hello, I'm Cole. I'm a student at BYU-I currently studying computer science, lea
 
 ## Projects and Work
 
-- [Rabbit Jump](https://github.com/colenelson0/gms2-rabbitjump) - a 2D platformer made using Game Maker Studio 2
-- [Movie Guesser](https://github.com/colenelson0/java-movieguesser) - a movie guessing game made with Java's GUI libraries
-- [iOS Paint](https://github.com/colenelson0/swift-ios-paint) - a simple drawing application made using Swift's UI libraries
+### [Rabbit Jump](https://github.com/colenelson0/gms2-rabbitjump) - a 2D platformer made using Game Maker Studio 2
+- Designed and developed a 2D platformer video game for Windows and Mac.
+- Technologies: Game Maker Studio 2 & GML
+### [Movie Guesser](https://github.com/colenelson0/java-movieguesser)
+- Developed a movie guessing game with a GUI for Windows and Mac.
+- Demonstrated understanding of different data structures.
+- Technologies: Visual Studio Code & Java
+### [iOS Paint](https://github.com/colenelson0/swift-ios-paint) - a simple drawing application made using Swift's UI libraries
+- Developed a drawing application for iOS.
+- Incorporated a dynamic user interface with adjustable pen size.
+- Technologies: Xcode, Swift, & SwiftUI
 
 ## Let's Connect!
 
